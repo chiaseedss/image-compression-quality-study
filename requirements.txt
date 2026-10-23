@@ -1,0 +1,10 @@
+# Direct import dependencies plus Jupyter tooling. Versions are not historically locked or runtime-validated.
+opencv-python
+numpy
+pandas
+Pillow
+scikit-image
+matplotlib
+seaborn
+notebook
+ipykernel
